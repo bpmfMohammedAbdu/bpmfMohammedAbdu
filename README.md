@@ -1,5 +1,5 @@
 ![logo](https://github.com/bpmfMohammedAbdu/bpmfMohammedAbdu/blob/main/mohammedabdugithubbaner.png)
-<h1 align="center">Hi 👋, I'm 🚀Mohammed Abdu</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Abdu</h1>
 <h4 align="center">🛠️ Engineering & Web Development Explorer</h4>
 <h3 align="center">A passionate web developer from Ethiopia</h3>
 <img align="right" width="500" alt="coding" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif">
